@@ -19,7 +19,7 @@
 
 ### Results
 * The fitting results using different hyperparameters(thetas)
-* 
+
 ![](https://i.imgur.com/1fzIMWg.png)
 
 ![](https://i.imgur.com/sgwckIj.png)
@@ -59,6 +59,9 @@
 
 ### Dataset
 * `dataset` contains the original figure `imghw3.jpg`
+
+![image](https://user-images.githubusercontent.com/37042357/116810504-aead0f80-ab76-11eb-8dfe-a424c4ec8082.png)
+
     
 ### Run the code
 * run `hw2_309706005.ipynb`
