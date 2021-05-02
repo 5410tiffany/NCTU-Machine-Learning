@@ -1,6 +1,6 @@
 
 # NCTU-Machine-Learning
-ECM9032 Machine Learning Taught By Professor Jen-Tzung Chien
+ECM9032 Machine Learning Taught By Professor Jen-Tzung Chien in National Chiao Tung University
 
 
 1. **HW1** includes Bayesian Linear Regression, Linear Regression with Maxiumum Likelihood Approach(ML) and Maximum a posteriori approach(MAP)
