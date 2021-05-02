@@ -1,13 +1,22 @@
 # NCTU-Machine-Learning
-ECM9032 Machine Learning Taught By Professor Jen-Tzung Chien
 
+## Dataset
+* `dataset_X.csv` in `Dataset` constains 7 different features for related to chance of admission (input) 
+* `dataset_X.csv` in `Dataset` contains the chance of admission for college application(target)
+## Environment Setting
+* python `3.7.7`
+* matplotlib  `3.1.3`
+*  numpy `1.18.1`
 
-1. **HW1** includes Bayesian Linear Regression, Linear Regression with Maxiumum Likelihood Approach(ML) and Maximum a posteriori approach(MAP)
-2. **HW2** includes Sequential Bayesian Learning and Logistic Regression with with `Fasion_MNIST` datasets and `Olivetti faces` datasets
-3. **HW3** includes Gaussian Process, Support Vector Machine(SVM) with `Tibetan` datasets, and Gaussian Mixture Model, and K-means
+## Run the code
+* run `hw1_run.ipynb`
+## Results
+* the RMS of each feature and the target using polynomial function(m=1) as the basis function:
+![](https://i.imgur.com/xVPb6sk.png)
+* RMS of different basis functions:
+    * Gaussian
+    * Sigmodial
 
-## About the Homework
-* Most algorithms are implemeted solely by python & numpy, no advanced toolbox/packages adopted.
-* detailed discriptions and demos are **attached in RM files in each folder**
-
-Good Luck!
+![](https://i.imgur.com/jA3CfTc.png)
+* different Lambda vs their train & validation RMS using Maximum a posterior approach(MAP)
+![](https://i.imgur.com/sMjvGgd.png)
