@@ -1,4 +1,4 @@
-[TOC]
+
 ## Environment Setting
 * python `3.7.7`
 * matplotlib  `3.1.3`
