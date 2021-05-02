@@ -55,7 +55,7 @@ The results of different updating methods
 ### Dataset
 * `Fashion_MNIST` constains 5 folders, which represent each class. In each folder, there are 64 pictures.
 ### Results
-* The results of different updating methods
+* The results of logistic regression using updating methods
 
 ![](https://i.imgur.com/dYgyzfD.png)
 
