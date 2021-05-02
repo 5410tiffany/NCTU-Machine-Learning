@@ -7,6 +7,7 @@
 * python `3.7.7`
 * matplotlib  `3.1.3`
 *  numpy `1.18.1`
+*  pandas `1.0.3`
 
 ## Run the code
 * run `hw1_run.ipynb`
