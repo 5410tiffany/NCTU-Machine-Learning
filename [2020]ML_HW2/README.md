@@ -32,6 +32,14 @@ The results of different updating methods
 ![](https://i.imgur.com/Y5qgS4y.png)
 ![](https://i.imgur.com/tXLRXik.png)
 
+## Environment Setting
+* python `3.7.7`
+* matplotlib  `3.1.3`
+*  numpy `1.18.1`
+*  pandas `1.0.3`
+
+## Run the code
+* run `hw2_309706005.ipynb`
 
 ## 1. Sequential Basian Learning
 
@@ -48,7 +56,7 @@ The results of different updating methods
 ### Dataset
 * `Fashion_MNIST` constains 5 folders, which represent each class. In each folder, there are 64 pictures.
 ### Results
-* The results of logistic regression using updating methods
+* The results of different updating methods
 
 ![](https://i.imgur.com/dYgyzfD.png)
 
