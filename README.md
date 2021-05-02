@@ -8,7 +8,7 @@ ECM9032 Machine Learning Taught By Professor Jen-Tzung Chien
 3. **HW3** includes Gaussian Process, Support Vector Machine(SVM) with `Tibetan` datasets, and Gaussian Mixture Model, and K-means
 
 ## About the Homework
-* Most algorithms are implemeted solely by python & numpy, no advanced toolbox/packages adopted.
+* Most algorithms are implemeted solely by numpy, matplotlib, and pandas, no advanced toolbox/packages adopted.
 * detailed discriptions and demos are **attached in RM files in each folder**
 
 Good Luck!
