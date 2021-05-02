@@ -19,6 +19,7 @@
 
 ### Results
 * The fitting results using different hyperparameters(thetas)
+* 
 ![](https://i.imgur.com/1fzIMWg.png)
 
 ![](https://i.imgur.com/sgwckIj.png)
@@ -26,7 +27,9 @@
 ![](https://i.imgur.com/TlZVj40.png)
 
 ![](https://i.imgur.com/RUXrxu7.png)
+
 * The fitting results using ARD to tune the hyperparameters(thetas)
+
 ![](https://i.imgur.com/UtU0qwp.png)
 
 * The learning process of ARD
@@ -62,12 +65,15 @@
 
 ### Result
 * K-means where `K = 3, 5, 7, 10`
+
 ![](https://i.imgur.com/bZg7X60.png)
 
 * EM algorithm where `K = 3, 5, 7, 10`
+
 ![](https://i.imgur.com/yqyx7IW.png)
 
 * The training process of different `K` in Gaussian Mixture Model
+
 ![](https://i.imgur.com/j2iboL3.png)
 
 
